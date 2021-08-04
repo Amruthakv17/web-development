@@ -1,2 +1,2 @@
-# web-development
-Web Development Bootcamp
+# Web Development
+The Complete Web Development Bootcamp
